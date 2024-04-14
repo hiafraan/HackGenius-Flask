@@ -9,5 +9,9 @@ HackGenius is a Flask-based web application that allows users to create, edit, a
 - Commenting system: Users can leave comments on blog posts.
 - Responsive design: The website is designed to be responsive and work well on all devices, including desktops, tablets, and smartphones.
 
+### Project Website
+
+You can visit the live version of this project [here](https://hackgenius.onrender.com/).
+
 
 https://github.com/hiafraan/HackGenius-Flask/assets/92703034/95742247-6a27-4318-a471-7ebf002b2aee
